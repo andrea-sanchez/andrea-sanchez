@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently intern in the area of Data Science and finishing a BS in Applied Mathematics.
+🔭 Currently intern in the area of Data Science and finishing a BS in Applied Mathematics.
 <!--
 **andrea-sanchez/andrea-sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
