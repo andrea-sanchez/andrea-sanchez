@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 🔭 Currently working in the area of Data Science. 
-
-📫  [Twitter](https://twitter.com/andreasmrtnz)
 <!--
 **andrea-sanchez/andrea-sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
