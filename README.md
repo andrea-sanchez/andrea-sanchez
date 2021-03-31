@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Andrea 👋🏼 👩🏻‍💻
 
 🔭 Currently working in the area of Data Science. 
 <!--
